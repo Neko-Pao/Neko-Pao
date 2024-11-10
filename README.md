@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+<div>
+  <a href="https://github.com/NekoPao"><img src="https://komarev.com/ghpvc/?username=Neko-Pao&label=views&style=flat-square&color=E91E63" alt="Views"/></a>
+</div>
+
+
+
+
 <!--
 **Neko-Pao/Neko-Pao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
