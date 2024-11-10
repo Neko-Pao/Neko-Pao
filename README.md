@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div>
-  <a href="https://github.com/NekoPao"><img src="https://komarev.com/ghpvc/?username=Neko-Pao&label=views&style=flat-square&color=E91E63" alt="Views"/></a>
+  <a href="https://github.com/NekoPao"><img src="https://komarev.com/ghpvc/?username=NekoPao&label=views&style=flat-square&color=E91E63" alt="Views"/></a>
 </div>
 
 
